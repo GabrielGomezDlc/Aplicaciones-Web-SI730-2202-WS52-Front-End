@@ -1,0 +1,18 @@
+{
+  "greeting": "Hola, {name}",
+
+  "code":"Código",
+  "name":"Nombre",
+  "abbreviation":"Abreviación",
+  "category": "Categoría",
+  "ruc":"RUC Proveedor",
+  "price":"Precio",
+  "label-color":"Color de etiqueta",
+  "date":"Fecha",
+  "status":"Estado",
+  "subject-to-tax": "Afecto a impuesto",
+  "photo": "Foto",
+  "description": "Descripción",
+
+  "product": "ningún producto | un producto | productos"
+}
