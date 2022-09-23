@@ -9,7 +9,7 @@ export default {
 
 <template>
   <nav class="flex flex-row gap-4 ">
-  <router-link to="/">Go to Home</router-link>
+  <router-link to="/">Go to Casita</router-link>
 
   <router-link to="/product">Product</router-link>
   <router-link to="/comment">Comment</router-link>
